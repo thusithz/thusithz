@@ -77,7 +77,14 @@ A **Qualified Computer Engineer** and **Dynamic IT Professional** with over **10
 
 Feel free to connect and say hi! 😊
 
+## 🌟 Pinned Repositories
+<!--START_SECTION:my_pinned_repos-->
+<!-- This section is updated automatically -->
+<!--END_SECTION:my_pinned_repos-->
+
+
 ## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thusithz&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thusithz&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thusithz&theme=tokyonight)](https://git.io/streak-stats)
 
