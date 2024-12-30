@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Thusitha Kariyawasam! 👨‍💻
+# Hi there 👋,  I'm Thusitha Kariyawasam! 👨‍💻
 
 A **Qualified Computer Engineer** and **Dynamic IT Professional** with over **10 years** of rich experience in the software development lifecycle, including **2 years** as a **Technical Lead**. I specialize in building robust, scalable, and high-performance applications for diverse domains such as Banking, Education, Finance, and Social Networks. 
 
@@ -43,8 +43,10 @@ A **Qualified Computer Engineer** and **Dynamic IT Professional** with over **10
 ### **Build/Deploy Tools**
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### **Version Control**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -58,8 +60,8 @@ A **Qualified Computer Engineer** and **Dynamic IT Professional** with over **10
 
 ## 🌱 **Interested Areas**
 - Blockchain Development
-- Cloud Platforms (AWS Certified - SAA-02)
-- Docker, Kubernetes, Azure DevOps
+- Cloud Platforms
+- AI Development
 
 ---
 
