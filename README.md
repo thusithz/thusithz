@@ -77,7 +77,10 @@ A **Qualified Computer Engineer** and **Dynamic IT Professional** with over **10
 
 Feel free to connect and say hi! 😊
 
-- **GitHub Stats**: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thusithz&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thusithz&theme=tokyonight)](https://git.io/streak-stats)
+
 
 <!--
 **thusithz/thusithz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
