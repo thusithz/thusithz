@@ -1,4 +1,4 @@
-# Hi there 👋,  I'm Thusitha Kariyawasam! 👨‍💻
+# Hi there 👋, &nbsp;I'm Thusitha Kariyawasam! 👨‍💻
 
 A **Qualified Computer Engineer** and **Dynamic IT Professional** with over **10 years** of rich experience in the software development lifecycle, including **2 years** as a **Technical Lead**. I specialize in building robust, scalable, and high-performance applications for diverse domains such as Banking, Education, Finance, and Social Networks. 
 
