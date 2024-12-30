@@ -73,7 +73,7 @@ A **Qualified Computer Engineer** and **Dynamic IT Professional** with over **10
 ## 📬 **Get in Touch**
 - **LinkedIn**: [Profile](https://www.linkedin.com/in/thusitha-kariyawasam-19414280/)
 
-Feel free to connect, collaborate, or just say hi! 😊
+Feel free to connect and say hi! 😊
 
 
 <!--
