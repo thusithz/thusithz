@@ -72,16 +72,14 @@ A **Qualified Computer Engineer** and **Dynamic IT Professional** with over **10
 
 ---
 
-##  **Profile Visit**
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thusithz.thusithz&left_color=green&right_color=red)
-
----
-
 ## 📬 **Get in Touch**
 - **LinkedIn**: [Profile](https://www.linkedin.com/in/thusitha-kariyawasam-19414280/)
 
 Feel free to connect and say hi! 😊
 
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=thusithz&label=Profile%20views&color=blue&style=flat" alt="thusithz"/>
+</p>
 <!--
 **thusithz/thusithz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
