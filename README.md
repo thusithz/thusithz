@@ -1,4 +1,4 @@
-# Hi there 👋, &nbsp;I'm Thusitha Kariyawasam! 👨‍💻
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi">, &nbsp;I'm Thusitha Kariyawasam! 👨‍💻
 
 A **Qualified Computer Engineer** and **Dynamic IT Professional** with over **10 years** of rich experience in the software development lifecycle, including **2 years** as a **Technical Lead**. I specialize in building robust, scalable, and high-performance applications for diverse domains such as Banking, Education, Finance, and Social Networks. 
 
@@ -69,6 +69,11 @@ A **Qualified Computer Engineer** and **Dynamic IT Professional** with over **10
 - **SDLC**: Agile/Scrum, Waterfall
 - **Task Management**: JIRA, Meistertask
 - **Scripting Tools**: Shell Scripting
+
+---
+
+##  **Profile Visit**
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thusithz.thusithz&left_color=green&right_color=red)
 
 ---
 
