@@ -7,7 +7,7 @@ A **Qualified Computer Engineer** and **Dynamic IT Professional** with over **10
 ## 🚀 **Profile Highlights**
 
 - **10+ years** of professional experience with full SDLC involvement, including **2 years** of lead software development experience.
-- **AWS Certified (SAA-02)**.
+- **AWS Certified Solutions Architect - Associate (ASS-02)**.
 - Expertise in **Waterfall** and **Agile/Scrum** development methodologies.
 - Proficient in **Full Stack Development**: Node.js, React.js, and Java.
 - Experience in **mobile app development**, including Cordova, iOS, and Android.
